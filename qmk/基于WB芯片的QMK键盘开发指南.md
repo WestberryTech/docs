@@ -1,6 +1,6 @@
 ## 资源介绍
 
-### 开发demo
+### 开发 DEMO
 
 - [owlt87-spi flash](https://github.com/WestberryTech/qmk_firmware/tree/demo/keyboards/owl/owlt87)
 
@@ -24,6 +24,10 @@
 - 线上 [VIA](https://via.evove.top)
 - vial-gui[下载](https://github.com/WestBerryVIA/vial-gui/releases)
 - 键盘提交[仓库](https://github.com/WestBerryVIA/keyboards)
+
+### QMK 已支持的基于 WB32 MCU 的键盘
+- [GMMK PRO V2](https://github.com/qmk/qmk_firmware/tree/develop/keyboards/gmmk/pro/rev2)
+- [GMMK V2 96%](https://github.com/qmk/qmk_firmware/tree/develop/keyboards/gmmk/gmmk2/p96)
 
 ### 注意事项
 
